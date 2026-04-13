@@ -35,8 +35,10 @@
 Enregistre un vote — l'électeur 5 (Anna Diop) vote pour le candidat 3. Réponse : "Vote enregistré avec succès".
 <img width="1297" height="1003" alt="4" src="https://github.com/user-attachments/assets/72e64841-35aa-41d7-a1b7-f524893b8c52" />
 
+
+<img width="1292" height="1002" alt="3" src="https://github.com/user-attachments/assets/a93fba1a-06a4-4b13-a795-bf7a539474a1" />
+
 #GET /electeurs ✅
 #Affiche la liste de tous les électeurs inscrits avec leur id, nom et email.
-<img width="1292" height="1002" alt="3" src="https://github.com/user-attachments/assets/a93fba1a-06a4-4b13-a795-bf7a539474a1" />
 
 <img width="1300" height="1007" alt="2" src="https://github.com/user-attachments/assets/c1592a08-3f96-466f-a847-27519d3ebce7" />
