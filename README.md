@@ -12,6 +12,7 @@
 #Affiche la liste de tous les candidats avec leur id, nom et l'élection à laquelle ils appartiennent.
 <img width="1300" height="996" alt="5" src="https://github.com/user-attachments/assets/c84c36e1-a7f5-471e-8425-0fd517a94c7d" />
 
+
 #POST /vote ✅ 201 Created
 #Enregistre un vote — l'électeur 4 vote pour le candidat 3. Réponse : "Vote enregistré avec succès".
 <img width="1297" height="1005" alt="6" src="https://github.com/user-attachments/assets/d47c54ed-918a-4ce4-b929-d56053a66455" />
