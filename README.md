@@ -2,11 +2,12 @@
 
 # GET /resultats ✅
 #Affiche le classement des candidats avec leur nombre de votes et les noms des électeurs qui ont voté pour eux. Bssirou est en tête avec 2 votes.
+
 <img width="1293" height="991" alt="1" src="https://github.com/user-attachments/assets/52128285-c9b9-40d1-8a49-d531db81bc49" />
 
+
 #POST /vote ✅ 201 Created
-#Enregistre un vote — l'électeur 4 vote pour le candidat 3. Réponse : "Vote enregistré avec succès".
-<img width="1305" height="1002" alt="7" src="https://github.com/user-attachments/assets/8d4e2be0-17b5-40e8-a243-dba379544373" />
+#Enregistre un vote — l'électeur 4 vote pour le candidat 3. Réponse : "Vote enregistré avec succès".<img width="1305" height="1002" alt="7" src="https://github.com/user-attachments/assets/8d4e2be0-17b5-40e8-a243-dba379544373" />
 
 
 
