@@ -23,8 +23,9 @@
 #Inscrit un nouvel électeur "Anna Diop" avec son email et mot de passe hashé. Reçoit l'id 5 en retour.
 <img width="1297" height="1005" alt="6" src="https://github.com/user-attachments/assets/d47c54ed-918a-4ce4-b929-d56053a66455" />
 
-#GET /candidats ✅
-#Affiche la liste de tous les candidats avec leur id, nom et l'élection à laquelle ils appartiennent.
+
+#POST /candidats ✅ 201 Created
+#Crée un nouveau candidat "Abdou Diouf" lié à l'élection 1. Reçoit l'id 5 en retour.
 <img width="1300" height="996" alt="5" src="https://github.com/user-attachments/assets/46d417c4-937f-4f48-a246-02e832c6a295" />
 
 #GET /electeurs ✅
