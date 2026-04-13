@@ -7,17 +7,8 @@
 
 
 #POST /vote ✅ 201 Created
-#Enregistre un vote — l'électeur 4 vote pour le candidat 3. Réponse : "Vote enregistré avec succès".<img width="1305" height="1002" alt="7" src="https://github.com/user-attachments/assets/8d4e2be0-17b5-40e8-a243-dba379544373" />
-
-
-
-
-#POST /candidats ✅ 201 Created
-#Crée un nouveau candidat "Abdou Diouf" lié à l'élection 1. Reçoit l'id 5 en retour.
-
-<img width="1300" height="996" alt="5" src="https://github.com/user-attachments/assets/c84c36e1-a7f5-471e-8425-0fd517a94c7d" />
-
-
+#Enregistre un vote — l'électeur 4 vote pour le candidat 3. Réponse : "Vote enregistré avec succès".
+<img width="1305" height="1002" alt="7" src="https://github.com/user-attachments/assets/8d4e2be0-17b5-40e8-a243-dba379544373" />
 
 
 # POST /electeurs ✅ 201 Created
